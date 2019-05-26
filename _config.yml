@@ -1,7 +1,7 @@
 # Site settings
 title: LY Blog
 SEOTitle: LY的博客 | LY Blog
-header-img: img/post-bg-desk.jpg
+header-img: img/mayday.jpg
 email: 445422948@qq.com
 description: "从不多想 只是信仰 —— LY博客进化史"
 keyword: "LY, LY Blog, LY的博客, aprilliu, 刘艳, iOS, Apple, iPhone"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/aprilliu6/aprilliu6.github.io.git" # you code r
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Miracles happen every day."
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/head portrait.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
