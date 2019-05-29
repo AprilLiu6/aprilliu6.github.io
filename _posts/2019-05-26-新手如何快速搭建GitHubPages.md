@@ -401,9 +401,9 @@ tags:								#标签
 
 ##### 同步和发布
 
-当我们在VScode里面完成了博客文章的编辑后，在GitHub Desktop界面能立马看到这些改动操作的记录，接着只需要在GitHub Desktop里面点击Commit。
+当我们在VScode里面完成了博客文章的编辑后，在GitHub Desktop界面能立马看到这些改动操作的记录，接着只需要在GitHub Desktop里面点击Commit to master。
 
-再点击出现的Push Login ，等进度条同步完成，就大功告成了。
+再点击出现的Push origin ，等进度条同步完成，就大功告成了。
 
 这时候登录你的GitHub Pages，就能看到发表的文章了。
 
