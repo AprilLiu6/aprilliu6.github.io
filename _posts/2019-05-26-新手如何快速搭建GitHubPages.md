@@ -11,21 +11,25 @@ tags:
 ---
 
 > 作为纯小白新手，真的完全没概念，只能参照很多前人分享的教程文一步一步来。在此特别感谢GitHub上的大神们。
-> 也感谢手把手教我的程序猿童鞋们，在我的Friends里有他们博客的链接。（我不会承认开博客只是因为一个赌约...)
-
-> 由于实在没什么概念，加上本人比较懒，所以本篇记录文主要借鉴了两位大神的教程，在此先表达下感谢并做下转载说明。有需要的朋友也可以直接查看他们的文章，基本可以掌握搭建方法。
-
-> 感谢[qiubaiying](http://qiubaiying.github.io)提供的博客模板
-> [他的博客](http://qiubaiying.top)
-> 感谢（https://knightyun.github.io）
-> 教程1（https://www.jianshu.com/p/e68fba58f75c）
-> 教程2(https://knightyun.github.io/2018/04/01/github-pages-blog#1.1)
+> 也感谢手把手教我的程序猿童鞋们，在我的Friends里有他们博客的链接。（我不会承认开博客只是因为一个赌约... ...)
 
 
 # 前言
 花了大半天，细细摸索了一遍教程文，创建了一个博客账号。但后面的个人配置对我一个新手来说实在是太复杂了，最终在老司机远程指导下，终于把我的个人博客[LY Blog](https://aprilliu6.github.io)搭建出来了。。。
 
-干脆写下整个过程，有需要拿走。下面直接粗暴进入主题。
+由于实在没什么概念，加上本人比较懒，所以本篇记录文主要借鉴了两位大神的教程，在此先表达下感谢并做下转载说明。有需要的朋友也可以直接查看他们的文章，基本可以掌握搭建方法。
+
+感谢[qiubaiying](http://qiubaiying.github.io)提供的博客模板
+
+[他的博客](http://qiubaiying.top)
+
+感谢（https://knightyun.github.io）
+
+教程1（https://www.jianshu.com/p/e68fba58f75c）
+
+教程2(https://knightyun.github.io/2018/04/01/github-pages-blog#1.1)
+
+下面直接粗暴进入主题。
 
 
 # 快速开始

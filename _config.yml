@@ -11,7 +11,7 @@ github_repo: "https://github.com/aprilliu6/aprilliu6.github.io.git" # you code r
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Miracles happen every day."
+sidebar-about-description: "从不多想，只是信仰."
 sidebar-avatar: /img/head portrait.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
