@@ -19,15 +19,10 @@ tags:
 
 由于实在没什么概念，加上本人比较懒，所以本篇记录文主要借鉴了两位大神的教程，在此先表达下感谢并做下转载说明。有需要的朋友也可以直接查看他们的文章，基本可以掌握搭建方法。
 
-感谢[qiubaiying](http://qiubaiying.github.io)提供的博客模板
-
-[他的博客](http://qiubaiying.top)
-
-感谢（https://knightyun.github.io）
-
-教程1（https://www.jianshu.com/p/e68fba58f75c）
-
-教程2(https://knightyun.github.io/2018/04/01/github-pages-blog#1.1)
+> 感谢[qiubaiying](http://qiubaiying.github.io)提供的博客模板
+> [他的博客](http://qiubaiying.top)
+> 感谢（https://knightyun.github.io）
+> 教程1（https://www.jianshu.com/p/e68fba58f75c）教程2(https://knightyun.github.io/2018/04/01/github-pages-blog#1.1)
 
 下面直接粗暴进入主题。
 
@@ -109,7 +104,6 @@ tags:
 2、这时候创建好的博客，里面的内容完完全全是你复制的那个博主的，所以接下来我们需要进行一些配置操作，把原博主的个人信息或界面风格改成自己的，一些不需要的东西删除。才能原原本本还原出一个属于我们自己的博客。
 
 
-
 ### 整个网站结构
 
 接下来我们开始修改博客的内容，把它逐步变成我们自己的博客。
@@ -117,7 +111,6 @@ tags:
 我们修改主要是通过以下红框中的配置文件进行修改
 
 ![](/img/2019052609.png)
-
 
 很复杂看不懂是不是，不要紧，大部分我们直接使用原作者搭建好的就行了，只需要改动其中几个主要的文件
 
@@ -282,6 +275,7 @@ friends: [
 
 恭喜你，到这里，你的个人博客就基本搭建完成了
 
+
 # 关于VScode和GitHub Desktop
 
 在写文章之前，教我进行博客配置的远程老司机，给我介绍了两个软件，可以更方便我们进行我们的博客管理
@@ -319,7 +313,6 @@ GitHub Desktop则是方便我们发表博客，也可以理解为把我们在VSc
 ## 创建
 
 接着在 `_posts` 的文件夹里
-
 
 新建一个md文件
 
@@ -422,4 +415,3 @@ tags:								#标签
 
 
 **心满意足！晚安！**
-
