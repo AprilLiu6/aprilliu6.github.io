@@ -7,7 +7,7 @@ author:     LY
 header-img: img/banner3.jpg
 catalog: true
 tags:
-    - Blog
+    - GitHub Pages
 ---
 
 > 作为纯小白新手，真的完全没概念，只能参照很多前人分享的教程文一步一步来。在此特别感谢GitHub上的大神们。
